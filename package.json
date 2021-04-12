@@ -23,12 +23,10 @@
     "@zonedigital/eslint-config-zone": "^2.0.6"
   },
   "devDependencies": {
-    "eslint-plugin-compat": "^2.0.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-react": "^7.0.0"
   },
   "peerDependencies": {
-    "eslint-plugin-compat": "^2.0.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-react": "^7.0.0"
   }
